@@ -1,21 +1,26 @@
 # Saviynt L100 Hands-On Labs
 
-Hands-on lab work completed in a Saviynt Enterprise Identity Cloud (EIC) training environment, covering the core Identity Governance and Administration (IGA) lifecycle end to end — from onboarding applications into the Identity Warehouse through access requests, lifecycle automation, certifications, and the intelligence layer.
+Hands-on lab work completed in a Saviynt Enterprise Identity Cloud (EIC) training environment, covering the core Identity Governance and Administration (IGA) lifecycle end to end — from first login through application onboarding, the access request system, lifecycle automation, certification, analytics, and environment transport.
+
+This repo mirrors my Saviynt L100 lab series, posted lab-by-lab on [LinkedIn](https://www.linkedin.com/in/darrion-wright-2691402ab/recent-activity/all/). Each lab below has its own write-up with screenshots from the live environment.
 
 **Author:** Darrion Wright
 **Environment:** Saviynt EIC (L100 training tenant)
-**Focus areas:** IGA, JML lifecycle, access governance, certification campaigns, identity analytics
+**Focus areas:** IGA, JML lifecycle, access governance, certification, identity analytics
 
 ## Labs
 
 | # | Lab | Key topics |
 |---|-----|-----------|
-| 1 | [Identity Warehouse & Application Onboarding](labs/01-identity-warehouse-app-onboarding.md) | Authoritative sources, connected vs. disconnected apps, aggregation, account correlation |
-| 2 | [Access Request Workflows](labs/02-access-request-workflows.md) | Auto-approval, manager approval, risk-based multi-level approval, fulfillment |
-| 3 | [Lifecycle Policy Rules (JML)](labs/03-lifecycle-policy-rules-jml.md) | Birthright access, transfer rules, termination/deprovisioning automation |
-| 4 | [Certification Campaigns](labs/04-certification-campaigns.md) | Manager, entitlement-owner, and application-owner campaigns; audit evidence |
-| 5 | [Intelligence & Trust Scores](labs/05-intelligence-trust-scores.md) | SQL analytics, orphan account remediation, intelligent recommendations, trust scoring |
-| 6 | [Administrator Functions (Transport)](labs/06-administrator-functions-transport.md) | Export packages, import preview, environment promotion, change management |
+| 1 | [Getting Started with Identity Cloud](labs/01-getting-started-identity-cloud.md) | Global config, audit trail, Security System / Endpoint / Connection model |
+| 2 | [Identity Cloud Building Blocks](labs/02-identity-cloud-building-blocks.md) | SAV roles, platform permissions, feature access, least privilege |
+| 3 | [Identity Management](labs/03-identity-management.md) | Username rules, bulk user import, user records and custom properties |
+| 4 | [Intelligent Application Onboarding](labs/04-intelligent-application-onboarding.md) | Connections, import jobs, entitlements, account correlation |
+| 5 | [Access Request System](labs/05-access-request-system.md) | Request workflows, fulfillment, recommendations, SoD checks |
+| 6 | [Identity Lifecycle Policies](labs/06-identity-lifecycle-policies.md) | Joiner birthright, mover transfer, leaver deprovisioning automation |
+| 7 | [Access Certification](labs/07-access-certification.md) | Trust scoring, campaign types, audit evidence and reporting |
+| 8 | [Intelligence & Analytics](labs/08-intelligence-analytics.md) | SQL analytics, orphan account remediation, custom analytics |
+| 9 | [Administrator Functions (Transport)](labs/09-administrator-functions-transport.md) | Export packages, environment promotion, change management |
 
 ## Reference
 
@@ -23,6 +28,4 @@ Hands-on lab work completed in a Saviynt Enterprise Identity Cloud (EIC) trainin
 
 ## Why this matters
 
-These labs walk the full IGA control surface that enterprises rely on: getting identity data right at the source, putting the right friction on access decisions, automating the joiner-mover-leaver lifecycle so deprovisioning never depends on a human remembering, producing audit-ready certification evidence, using analytics to find the risk nobody requested, and promoting tested configuration between environments with proper change management.
-
-Lab screenshots from the live environment are linked in each write-up via my [LinkedIn lab series](https://www.linkedin.com/in/darrion-wright-2691402ab/recent-activity/all/).
+These labs walk the full IGA control surface enterprises rely on: getting identity data right at the source, onboarding applications with proper correlation, putting the right friction on access decisions, automating the joiner-mover-leaver lifecycle so deprovisioning never depends on a human remembering, producing audit-ready certification evidence, using analytics to find the risk nobody requested, and promoting tested configuration between environments with proper change management.
