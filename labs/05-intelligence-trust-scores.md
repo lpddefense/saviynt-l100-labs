@@ -1,5 +1,7 @@
 # Lab 5 — Intelligence & Trust Scores
 
+![Analytics configuration in Saviynt EIC — orphan account analytics with column configuration](../images/lab5-analytics-configuration.jpg)
+
 ## Objective
 
 Work the intelligence layer of Saviynt EIC — the analytics and risk-scoring capabilities most implementations never touch.

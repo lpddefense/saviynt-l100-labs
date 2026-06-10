@@ -1,5 +1,7 @@
 # Lab 3 — Lifecycle Policy Rules (JML)
 
+![Technical Rules configured in Saviynt EIC — birthright rules creating accounts and assigning responsibilities based on user city](../images/lab3-technical-rules.jpg)
+
 ## Objective
 
 Configure the policy rules that automate the joiner-mover-leaver (JML) lifecycle so access is granted, adjusted, and revoked without a human clicking anything.

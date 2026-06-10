@@ -1,5 +1,7 @@
 # Lab 4 — Certification Campaigns
 
+![Trust Model Configuration in Saviynt EIC — weighting Peer Access and SOX Criticality signals to compute trust scores](../images/lab4-trust-model-signals.jpg)
+
 ## Objective
 
 Run three different access certification campaigns and produce the audit evidence that proves they happened.

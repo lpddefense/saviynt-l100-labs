@@ -1,5 +1,7 @@
 # Lab 6 — Administrator Functions (Transport)
 
+![Export Package configuration in Saviynt EIC — selecting SAV Roles and Workflows for transport with member assignments preserved](../images/lab6-transport-export-package.jpg)
+
 ## Objective
 
 Safely move configuration between Saviynt environments using the Transport feature — the controlled way to promote components from one instance to another instead of building straight in production.
