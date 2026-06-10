@@ -18,4 +18,8 @@ Work the intelligence layer of Saviynt EIC — the analytics and risk-scoring ca
 
 ## Skills demonstrated
 
-Identity analytics, SQL-based reporting, orphan account detection and remediation, intelligent access recommendations, risk/trust score configuration.
+Identity analytics, SQL-based reporting, orphan account detection and remediation, intelligent access recommendations, risk/trust score configuration, CSV report export for audit handoff.
+
+## Lab evidence
+
+Screenshots of this lab (the analytics configuration with the SQL query, analytics history for orphan accounts of Siebel MRM, and the map/delete remediation actions) are in my LinkedIn write-up: [Intelligence and Analytics post](https://www.linkedin.com/feed/update/urn:li:activity:7469740157857005568/)

@@ -21,4 +21,8 @@ Then generated the **certification reports** — because the deliverable is the 
 
 ## Skills demonstrated
 
-Certification campaign configuration, reviewer assignment models, access review execution, compliance reporting and audit evidence generation.
+Certification campaign configuration, reviewer assignment models, access review execution, trust score signal configuration, compliance reporting and audit evidence generation.
+
+## Lab evidence
+
+Screenshots of this lab (Trust Modeling Framework signal weights, the campaign list, completed certifications, and the exported campaign report) are in my LinkedIn write-up: [Access Certification post](https://www.linkedin.com/feed/update/urn:li:activity:7468703206362210305/)

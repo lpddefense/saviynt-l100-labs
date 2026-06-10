@@ -19,3 +19,7 @@ Configure the policy rules that automate the joiner-mover-leaver (JML) lifecycle
 ## Skills demonstrated
 
 Lifecycle policy configuration, birthright provisioning, transfer-based access re-evaluation, automated deprovisioning, JML automation design.
+
+## Lab evidence
+
+Screenshots of this lab (technical rules, pending provisioning tasks, the User_Transfer update rule, and the leaver remove-access task) are in my LinkedIn write-up: [Identity Lifecycle Policies post](https://www.linkedin.com/feed/update/urn:li:activity:7468656996100100096/)
